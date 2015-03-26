@@ -1,0 +1,5 @@
+<Alloy>
+	<Window id="childwindow" class="container" backgroundColor="#fff" title="Tab 1 Child">
+		<ActionBar onHomeIconItemSelected="doclose" displayHomeAsUp="true" platform="android"/>
+	</Window>
+</Alloy>

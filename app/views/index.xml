@@ -1,0 +1,39 @@
+<Alloy>
+	<TabGroup title="TabGroup">
+		<Tab   icon="/images/schedule.png">
+			<Window class="container" title="Tab 1">
+				<Label id="label" onClick="doClick">Click for next window</Label>
+			</Window>
+		</Tab>
+		<Tab   icon="/images/schedule.png">
+			<Window class="container" title="Tab 2">
+				<Label id="label">Hello, World</Label>
+			</Window>
+		</Tab>
+		<Tab   icon="/images/schedule.png">
+			<Window class="container" title="Tab 3">
+				<Label id="label">Hello, World</Label>
+			</Window>
+		</Tab>
+		<Tab   icon="/images/schedule.png">
+			<Window class="container" title="Tab 3">
+				<Label id="label">Hello, World</Label>
+			</Window>
+		</Tab>
+		<Tab   icon="/images/schedule.png">
+			<Window class="container" title="Tab 3">
+				<Label id="label">Hello, World</Label>
+			</Window>
+		</Tab>
+		<Tab  icon="/images/schedule.png">
+			<Window class="container" title="Tab 3">
+				<Label id="label">Hello, World</Label>
+			</Window>
+		</Tab>
+		<Tab icon="/images/schedule.png">
+			<Window class="container" title="Tab 3">
+				<Label id="label">Hello, World</Label>
+			</Window>
+		</Tab>
+	</TabGroup>
+</Alloy>
